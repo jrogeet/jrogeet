@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrogeet" alt="jrogeet" /></a> </p>
 
-- 🔭 I’m currently working on **my knowledge of fundamentals**
-
 - 🌱 I’m currently learning **the fundamentals of programming**
 
 - ⚡ Fun fact **I love listening to music 🎧 and appreciating any form of art 🎨!**
