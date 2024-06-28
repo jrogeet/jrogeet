@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Rogee</h1>
-<h3 align="center">Aspiring programmer</h3>
-
+<h1 align="center">Welcome! I'm an Aspiring programmer 🧑🏻‍💻</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrogeet&label=Profile%20views&color=ffbb00&style=flat" alt="jrogeet" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrogeet" alt="jrogeet" /></a> </p>
@@ -24,6 +22,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **my knowledge of fundamentals**
 
 - 🌱 I’m currently learning **the fundamentals of programming**
+
+- ⚡ Fun fact **I love listening to music! 🎧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
