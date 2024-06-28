@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Welcome! I'm an Aspiring Software Engineer 🧑🏻‍💻</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrogeet&label=Profile%20views&color=ffbb00&style=flat" alt="jrogeet" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrogeet" alt="jrogeet" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jrogeet&label=Profile%20views&color=ffbb00&style=flat" alt="jrogeet" /> </p>
 
 - 🌱 I’m currently learning **the fundamentals of programming**
 
@@ -33,3 +31,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrogeet&show_icons=true&theme=gruvbox&locale=en" alt="jrogeet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrogeet&theme=dark" alt="jrogeet" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrogeet" alt="jrogeet" /></a> </p>
