@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **the fundamentals of programming**
 
-- ⚡ Fun fact **I love listening to music 🎧 and appreciating any form of art 🎨!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
