@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">Welcome! I'm an Aspiring Software Engineer 🧑🏻‍💻</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=jrogeet&label=Profile%20views&color=ffbb00&style=flat" alt="jrogeet" /> </p>
+<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=jrogeet&label=Profile%20views&color=ffbb00&style=flat" alt="jrogeet" /> </p> -->
 
 - 🌱 I’m currently learning **the fundamentals of programming**
 
