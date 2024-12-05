@@ -1,4 +1,4 @@
-Hi 👋, I'm John Rogee Turqueza. An aspiring software engineer 🧑🏻‍💻 and A Computer Science Undergrad at Our Lady of Fatima University - Valenzuela in Philippines.
+Hi 👋, I'm John Rogee Turqueza. An aspiring software engineer 🧑🏻‍💻 and A Computer Science Undergrad at Our Lady of Fatima University in Philippines.
 
 <table align="center">
   <tr>
