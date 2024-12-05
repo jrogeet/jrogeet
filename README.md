@@ -1,6 +1,6 @@
 Hi 👋, I'm John Rogee Turqueza. An aspiring software engineer 🧑🏻‍💻 and A Computer Science Undergrad at Our Lady of Fatima University - Valenzuela in Philippines.
 
-<table>
+<table align="center">
   <tr>
     <td>
       <ul>
