@@ -1,12 +1,17 @@
 Hi 👋, I'm John Rogee Turqueza. An aspiring software engineer 🧑🏻‍💻 and A Computer Science Undergrad at Our Lady of Fatima University - Valenzuela in Philippines.
 
-<picture>
+<p align="right">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jrogeet&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jrogeet&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true">
-</picture>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=jrogeet&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  </picture>
+</p>
 
--   :pencil2: PHP / Javascript / Python / TailwindCSS 
--   :seedling: Currently studying full stack javascript
+<ul>
+  <li>⚙️ PHP / Javascript / Python / TailwindCSS</li>
+  <li>🌱 Currently studying full stack JavaScript</li>
+</ul>
+
 
 ---
 
