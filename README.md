@@ -5,7 +5,7 @@ Hi 👋, I'm John Rogee Turqueza. An aspiring software engineer 🧑🏻‍💻 
     <td>
       <ul>
         <li>⚙️ PHP / Javascript / Python / TailwindCSS</li>
-        <li>🌱 Currently studying Laravel & ReactJS!</li>
+        <li>🌱 Currently learning Laravel & ReactJS!</li>
       </ul>
     </td>
     <td>
