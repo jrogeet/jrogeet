@@ -44,7 +44,7 @@
 
 ---
 
-I also want to start blogging... but I don't know what to blog, so...
+I also want to start blogging... but I don't know what to blog yet, so...
 #### Just take a look at my clusterfuck notes 🐱: https://jrogeet-notes.vercel.app/
 
 <div align="center">
