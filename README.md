@@ -47,7 +47,7 @@ Hi 👋, I'm John Rogee Turqueza. An aspiring software engineer 🧑🏻‍💻 
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td>
       <strong>🌐 Socials:</strong>
       <br>
       <a href="https://instagram.com/ruhzhee">
@@ -58,11 +58,11 @@ Hi 👋, I'm John Rogee Turqueza. An aspiring software engineer 🧑🏻‍💻 
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" alt="LinkedIn">
       </a>
     </td>
-    <td align="center">
+    <td>
       <strong>🎵 Spotify</strong>
       <br>
-      <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=6f7dpi6e7mpzkc61ue85eimxh&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=55ccf9&bar_color_cover=false" alt="Spotify Now Playing">
+      <a href="https://github.com/JeffreyCA/spotify-recently-played-readme">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=6f7dpi6e7mpzkc61ue85eimxh" alt="Spotify Recently Played">
       </a>
     </td>
   </tr>
