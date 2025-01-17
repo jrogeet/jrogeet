@@ -63,7 +63,7 @@ Hi 👋, I'm John Rogee Turqueza. An aspiring software engineer 🧑🏻‍💻 
             </a>
           </td>
           <td>
-            <a href="https://github.com/JeffreyCA/spotify-recently-played-readme">
+            <a href="https://open.spotify.com/user/6f7dpi6e7mpzkc61ue85eimxh">
               <img src="https://spotify-recently-played-readme.vercel.app/api?user=6f7dpi6e7mpzkc61ue85eimxh" alt="Spotify Recently Played">
             </a>
           </td>
