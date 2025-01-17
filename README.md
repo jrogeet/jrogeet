@@ -42,13 +42,10 @@ Hi 👋, I'm John Rogee Turqueza. An aspiring software engineer 🧑🏻‍💻 
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat-square&logo=obsidian&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
-
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <strong>🌐 Socials:</strong>
@@ -58,14 +55,14 @@ Hi 👋, I'm John Rogee Turqueza. An aspiring software engineer 🧑🏻‍💻 
       </a>
       <br>
       <a href="https://linkedin.com/in/jrogeet">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" alt="LinkedIn">
       </a>
     </td>
     <td align="center">
       <strong>🎵 Spotify</strong>
       <br>
       <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=6f7dpi6e7mpzkc61ue85eimxh&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=6f7dpi6e7mpzkc61ue85eimxh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
       </a>
     </td>
   </tr>
