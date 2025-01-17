@@ -45,7 +45,7 @@ Hi 👋, I'm John Rogee Turqueza. An aspiring software engineer 🧑🏻‍💻 
 ---
 
 I also want to start blogging... but I don't know what to blog, So...
-###### Just take a look at my clusterfuck notes 🐱: https://jrogeet-notes.vercel.app/
+##### Just take a look at my clusterfuck notes 🐱: https://jrogeet-notes.vercel.app/
 
 <div align="center">
 
