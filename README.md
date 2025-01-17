@@ -1,7 +1,7 @@
 <div align="center">
   <p>Hi 👋, I'm John Rogee Turqueza.</p>
   <p>An aspiring software engineer 🧑🏻‍💻</p>
-  <p>and a Computer Science Student at Our Lady of Fatima University in Philippines.</p>
+  <p>and a Computer Science student from the Philippines.</p>
 </div>
 
 <table align="center">
