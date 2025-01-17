@@ -43,13 +43,25 @@ Hi 👋, I'm John Rogee Turqueza. An aspiring software engineer 🧑🏻‍💻 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6f7dpi6e7mpzkc61ue85eimxh&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruhzhee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jrogeet) 
+<table align="center">
+  <tr>
+    <td>
+      <ul>
+        <li>🌐 Socials:</li>
+        <li>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruhzhee)</li>
+        <li>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jrogeet)</li>
+      </ul>
+    </td>
+    <td>
+      [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6f7dpi6e7mpzkc61ue85eimxh&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+    </td>
+  </tr>
+</table>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jrogeet&icon=0&color=1)](https://visitcount.itsvg.in)
