@@ -73,7 +73,7 @@ Hi 👋, I'm John Rogee Turqueza. An aspiring software engineer 🧑🏻‍💻 
     <td>
       <td align="center">
         <h3>✍️ Random Dev Quote:</h3>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote">
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord" alt="Random Dev Quote">
       </td>
     </td>
   </tr>
