@@ -44,27 +44,40 @@ Hi 👋, I'm John Rogee Turqueza. An aspiring software engineer 🧑🏻‍💻 
 
 ---
 
-<table align="center">
+
+
+<table>
   <tr>
     <td>
-      <strong>🌐 Socials:</strong>
-      <br>
-      <a href="https://instagram.com/ruhzhee">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-      </a>
-      <br>
-      <a href="https://linkedin.com/in/jrogeet">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" alt="LinkedIn">
-      </a>
+      <table align="center">
+        <tr>
+          <td>
+            <strong>🌐 Socials:</strong>
+            <br>
+            <a href="https://instagram.com/ruhzhee">
+              <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+            </a>
+            <br>
+            <a href="https://linkedin.com/in/jrogeet">
+              <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" alt="LinkedIn">
+            </a>
+          </td>
+          <td>
+            <a href="https://github.com/JeffreyCA/spotify-recently-played-readme">
+              <img src="https://spotify-recently-played-readme.vercel.app/api?user=6f7dpi6e7mpzkc61ue85eimxh" alt="Spotify Recently Played">
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
     <td>
-      <a href="https://github.com/JeffreyCA/spotify-recently-played-readme">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=6f7dpi6e7mpzkc61ue85eimxh" alt="Spotify Recently Played">
-      </a>
+      <td align="center">
+        <h3>✍️ Random Dev Quote:</h3>
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote">
+      </td>
     </td>
   </tr>
 </table>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
