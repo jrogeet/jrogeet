@@ -1,7 +1,6 @@
 <div align="center">
-  <p>Hi 👋, I'm John Rogee Turqueza.</p>
-  <p>An aspiring software engineer 🧑🏻‍💻</p>
-  <p>and a Computer Science student from the Philippines.</p>
+  <p>Aspiring software engineer 🧑🏻‍💻</p>
+  <p>Computer Science Student</p>
 </div>
 
 <table align="center">
