@@ -3,23 +3,6 @@
   <p>Computer Science Student</p>
 </div>
 
-<table align="center">
-  <tr>
-    <td>
-      <ul>
-        <li>⚙️ PHP / Javascript / Python / TailwindCSS</li>
-        <li>🌱 Currently learning Laravel & ReactJS!</li>
-      </ul>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jrogeet&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=jrogeet&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-      </picture>
-    </td>
-  </tr>
-</table>
-
 ## 💻 My current Tech Stack & Other tools I'm comfortable with:
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
